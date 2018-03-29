@@ -1,0 +1,73 @@
+Attaching to computernetworks_tn1_1
+[36mtn1_1  |[0m - interfetele de retea:
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 8: eth0@if9: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:96:a0:aa:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 150.160.170.2/30 brd 150.160.170.3 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m - gateway:
+[36mtn1_1  |[0m default via 150.160.170.1 dev eth0 
+[36mtn1_1  |[0m 150.160.170.0/30 dev eth0 proto kernel scope link src 150.160.170.2 
+[36mtn1_1  |[0m - interfetele de retea:
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 18: eth0@if19: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:96:a0:aa:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 150.160.170.2/30 brd 150.160.170.3 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m - gateway:
+[36mtn1_1  |[0m default via 150.160.170.1 dev eth0 
+[36mtn1_1  |[0m 150.160.170.0/30 dev eth0 proto kernel scope link src 150.160.170.2 
+[36mtn1_1  |[0m - interfetele de retea:
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 28: eth0@if29: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:96:a0:aa:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 150.160.170.2/30 brd 150.160.170.3 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m - gateway:
+[36mtn1_1  |[0m default via 150.160.170.1 dev eth0 
+[36mtn1_1  |[0m 150.160.170.0/30 dev eth0 proto kernel scope link src 150.160.170.2 
+[36mtn1_1  |[0m - interfetele de retea:
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 38: eth0@if39: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:96:a0:aa:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 150.160.170.2/30 brd 150.160.170.3 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m - gateway:
+[36mtn1_1  |[0m default via 150.160.170.1 dev eth0 
+[36mtn1_1  |[0m 150.160.170.0/30 dev eth0 proto kernel scope link src 150.160.170.2 
+[36mtn1_1  |[0m - interfetele de retea:
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 50: eth0@if51: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:96:a0:aa:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 150.160.170.2/30 brd 150.160.170.3 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m - gateway:
+[36mtn1_1  |[0m default via 150.160.170.1 dev eth0 
+[36mtn1_1  |[0m 150.160.170.0/30 dev eth0 proto kernel scope link src 150.160.170.2 
+[36mtn1_1  |[0m - interfetele de retea:
+[36mtn1_1  |[0m 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+[36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+[36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m 58: eth0@if59: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m     link/ether 02:42:96:a0:aa:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+[36mtn1_1  |[0m     inet 150.160.170.2/30 brd 150.160.170.3 scope global eth0
+[36mtn1_1  |[0m        valid_lft forever preferred_lft forever
+[36mtn1_1  |[0m - gateway:
+[36mtn1_1  |[0m default via 150.160.170.1 dev eth0 
+[36mtn1_1  |[0m 150.160.170.0/30 dev eth0 proto kernel scope link src 150.160.170.2 
